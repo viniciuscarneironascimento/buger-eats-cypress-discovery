@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "nome": "Vinicius Nascimento",
+        "cpf": "00011122200",
+        "email": "contato@gmail.com",
+        "whatsapp": "71999999999",
+        "endereco": {
+            "cep": "41100720",
+            "rua": "Rua Cyridião Durval",
+            "numero": "423",
+            "complemento": "Ap 104",
+            "bairro": "Pernambués",
+            "cidade_uf": "Salvador/BA"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_invalido": {
+        "nome": "Lucas Nascimento",
+        "cpf": "x00111222AA",
+        "email": "contato@gmail.com",
+        "whatsapp": "71999999999",
+        "endereco": {
+            "cep": "41100720",
+            "rua": "Rua Cyridião Durval",
+            "numero": "423",
+            "complemento": "Ap 104",
+            "bairro": "Pernambués",
+            "cidade_uf": "Salvador/BA"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_invalido": {
+        "nome": "Vinicius Nascimento",
+        "cpf": "00011122200",
+        "email": "contato.com",
+        "whatsapp": "71999999999",
+        "endereco": {
+            "cep": "41100720",
+            "rua": "Rua Cyridião Durval",
+            "numero": "423",
+            "complemento": "Ap 104",
+            "bairro": "Pernambués",
+            "cidade_uf": "Salvador/BA"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
